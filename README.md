@@ -8,6 +8,8 @@ Estarei utilizando o banco de dados SQL Server e o Entity Framework
 
 - CRUD - Create, Read, Update e Delete
 
+- No projeto já tem a migration, é necessário apenas criar a base de dados e alterar os parametros no appsettings.json, e depois no terminal do Console de Projetos rodar o comando: update-database
+
 
 ## Stack utilizada
 
