@@ -11,8 +11,6 @@ Estarei utilizando o banco de dados SQL Server e o Entity Framework
 
 ## Stack utilizada
 
-**Front-end:** Bootstrap 5
-
 **Back-end:** NET 5.0 Core, SQL Server
 
 
