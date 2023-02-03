@@ -24,10 +24,6 @@ Estarei utilizando o banco de dados SQL Server e o Entity Framework
   GET /api/produtos
 ```
 
-| Parâmetro   | Tipo       | Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
-|  | `string` | Não precisa de autenticação |
-
 #### Retorna um produto
 
 ```http
